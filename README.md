@@ -1,6 +1,6 @@
 # Covid-20_25
 
-Tableau Public Link: https://public.tableau.com/app/profile/rishabh.salian/viz/CovidDatabase_17513967971760/Dashboard1
+Tableau Public Link: https://public.tableau.com/app/profile/rishabh.salian/viz/CovidDatabase_17513967971760/Dashboard1?publish=yes
 
 For this Project I had 1 MetaData of Covid Records from World Heatlth Organization.
 From That I Extracted 2 DataSet :
