@@ -50,4 +50,5 @@ The processed data was then used to create four key visualizations in Tableau, c
   4. Time Series Chart for Percent Population Infected: A line graph illustrating the progression of infection rates over time for selected countries (e.g., USA, UK, India, China, Mexico), including a forecasting element to predict future trends.
 Tableau Public Dashboard Link: https://public.tableau.com/app/profile/rishabh.salian/viz/CovidDatabase_17513967971760/Dashboard1?publish=yes
 
+
 **This project highlights the end-to-end process of a data analysis workflow, from raw data to actionable insights and shareable **visualizations.
